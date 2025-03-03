@@ -15,10 +15,10 @@
 Run the following commands to clone and navigate into the project:  
 
 ```bash  
-git clone https://github.com/jomon-j/Calculator.git
+git clone https://github.com/jomon-j/calculator.git
 ```
 ```bash
-cd Calculator    
+cd calculator    
 ```
 
 <p align ="center">-or-</p>
