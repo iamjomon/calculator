@@ -1,17 +1,13 @@
 # Calculator
 
-![Preview](https://github.com/user-attachments/assets/3be2abf0-e59c-4571-b023-322d8cfba7df)
+<img src ="https://github.com/user-attachments/assets/3be2abf0-e59c-4571-b023-322d8cfba7df" width="500">
 
-[***Live Demo***](https://Calculator.jomon.dev)  
-
----
+***The Project is Live [Here.](https://calculator-jomon.vercel.app/)***
 
 ## Technologies Used  
-- **HTML**: For structure  
-- **CSS**: For styling  
-- **JavaScript**: For real-time functionality  
-
----
+- **HTML**: For structure
+- **CSS**: For styling
+- **JavaScript**: For real-time functionality
 
 ## Getting Started  
 
@@ -19,26 +15,24 @@
 Run the following commands to clone and navigate into the project:  
 
 ```bash  
-    git clone https://github.com/Jomon-J/Calculator.git
+git clone https://github.com/jomon-j/Calculator.git
+```
+```bash
+cd Calculator    
+```
 
-```
-```
-     cd Calculator
-```
-  
+<p align ="center">-or-</p>
 
 ### Fork the Repository  
 1. Fork this repository on GitHub.  
-2. Clone your fork:  
+2. Clone your fork.
 
 ```bash  
-   git clone https://github.com/your-username/your-forked-repository-name.git
+git clone https://github.com/your-username/your-forked-repository-name.git
+```
+```bash
+cd your-forked-repository-name    
+```
 
- ```
-    cd your-forked-repository-name    
-   
----
-
-### 🌟 *Don’t Forget to Star!*
-   - If you find this project useful, please consider giving it a star ⭐. It helps others discover it too!
-   - 
+## 🌟 *Don’t Forget to Star!*
+If you find this project useful, please consider giving it a star ⭐. It helps others discover it too!
