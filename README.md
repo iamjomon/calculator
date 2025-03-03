@@ -2,7 +2,7 @@
 
 <img src ="https://github.com/user-attachments/assets/3be2abf0-e59c-4571-b023-322d8cfba7df" width="500">
 
-***The Project is Live [Here.](https://calculator-jomon.vercel.app/)***
+***The deployed version is available [here.](https://calculator-jomon.vercel.app/)***
 
 ## Technologies Used  
 - **HTML**: For structure
